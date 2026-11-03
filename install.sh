@@ -8,8 +8,8 @@ pip install requests rich urllib3
 
 echo "⬇️ ကုဒ်များ ဒေါင်းလုဒ်ဆွဲနေပါသည်..."
 # သင့်ဖိုင်နာမည် V09pro.py အတိုင်း သေချာထည့်ထားပါတယ်
-curl -O https://raw.githubusercontent.com/klk54821-bit/youandme/main/V09pro.py
+curl -O https://raw.githubusercontent.com/klk54821-bit/youandme/main/V09+.py
 
 echo "✅ အားလုံးအဆင်သင့်ဖြစ်ပါပြီ။"
 echo "🚀 စတင်ရန် အောက်ပါ command ကို ရိုက်ပါ -"
-echo "python V09pro.py"
+echo "python V09+.py"
